@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Loki&Carmilla</h1>
+    return <h1>Novos Deploys</h1>
 }
 
 export default Home;
